@@ -1,6 +1,6 @@
 // Rendere il menu hamburger visibile al click
 
-$("a").click(function functionName() {
+$(".fas").click(function functionName() {
   $(".hamburger-menu").show('slow');
 });
 
